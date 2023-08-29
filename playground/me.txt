@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shubham
-Skills: Data Science, Machine learning, NLP, python
-Email: shubx10@gmail.com
-{{/user}}
